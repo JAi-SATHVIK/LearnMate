@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053791408899",
+    "project_id": "hound-s",
+    "storage_bucket": "hound-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053791408899:android:33859b43351d280a288f36",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ11YBq0wmuU5ux0xnGBo4X3Y5iPc-HSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
