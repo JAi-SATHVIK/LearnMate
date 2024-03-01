@@ -1,47 +1,97 @@
+
 # LearnMate
 
 LearnMate is an innovative educational app designed to address the global challenge of unequal access to quality education. Through personalized classes, comprehensive notes, interactive tests, and doubt-solving assistance, LearnMate empowers students to overcome barriers to learning and improve their academic performance. With a focus on user feedback and continuous improvement, LearnMate strives to make education more accessible and effective for all learners.
 
-## Features
+## ⚽️ UN SDGs & Our Goals
 
-- *Personalized Classes:* Tailored learning experiences based on individual student needs.
-- *Comprehensive Notes:* Access to detailed study materials for various subjects.
-- *Interactive Tests:* Engaging assessments to reinforce learning and track progress.
-- *Doubt-Solving Assistance:* Instant support for clearing doubts and understanding concepts.
+![App Screenshot](https://i.postimg.cc/d1mNqcG5/gh.jpg)
+## ⚙ Google Technologies Used
 
-## Installation
+![App Screenshot](https://i.postimg.cc/TPypMRvX/Screenshot-2024-03-01-155531.png)
 
-To install LearnMate, simply download the app from the [App Store](#) or [Google Play Store](#) and follow the on-screen instructions.
+**Backend:**
+1. Utilizes Firebase for real-time database functionality and cloud storage capabilities.
+2. Implements Google Analytics to gather insights into user behavior and engagement patterns.
+3. Utilizes Gmail for seamless feedback collection, enhancing user interaction and satisfaction.
+4. Employs Gemini API and API.AI Studio to power the chatbot feature, providing intelligent and interactive assistance.
 
-## Usage
+**Frontend:**
+1. Developed using Flutter and Dart for cross-platform compatibility, ensuring a consistent user experience across different devices and operating systems.
+2. Integrates YouTube Data API v3 to fetch and display class videos within the app, enriching the learning experience with multimedia content.
+3. Leveraging Firebase Cloud Storage to store PDFs, facilitating easy access to educational materials directly within the application.
+# 📱 APP Screenshot & Description
 
-1. Sign up for a LearnMate account or log in with your existing credentials.
-2. Explore available classes, notes, and tests.
-3. Customize your learning experience based on your preferences and academic goals.
-4. Utilize doubt-solving assistance whenever needed to enhance understanding.
-5. Track your progress and review performance analytics to identify areas for improvement.
+## HOME SCREEN
+Upon signing up, you'll be greeted with the HOME SCREEN where you can view the complete REPORT of STUDENTS' progress. You'll also have the option to PROVIDE FEEDBACK through GMAIL
 
-## Configuration
+![App Screenshot](https://i.postimg.cc/VvNNg1RT/re.jpg)
 
-LearnMate does not require any additional configuration. Simply ensure that your device meets the minimum system requirements for optimal performance.
+## NAVIGATION BAR
 
-## Support
+When you swipe left, a side navigation bar will appear, offering options that mimic a real-world classroom experience.
 
-For assistance or inquiries, please contact our support team at [support@learnmate.com](mailto:support@learnmate.com). You can also visit our [FAQ page](#) for answers to commonly asked questions.
+![App Screenshot](https://i.postimg.cc/zD9CBcGN/re.jpg)
 
-## Contributing
+## CLASSES
+ 
+Users can attend classes tailored to their respective subjects by selecting them through the home screen.
 
-We welcome contributions from the community to help improve LearnMate. If you're interested in contributing, please fork the repository, make your changes, and submit a pull request. Be sure to follow our [contribution guidelines](CONTRIBUTING.md).
+![App Screenshot](https://i.postimg.cc/76S2Tx6y/re.jpg)
 
-## License
+## TEST 
 
-This project is licensed under the [MIT License](LICENSE).
+Users can take tests for their respective subjects to test their knowledge by selecting them through the home screen.
 
-## Credits
+![App Screenshot](https://i.postimg.cc/BZDrtRBc/re.jpg)
 
-- Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)
-- Background photo by [Unsplash](https://unsplash.com/)
+## RESULTS
 
----
+Results are displayed only after the test has been attempted, showcasing all the correct and incorrect answers.
 
-Feel free to customize this template further based on the specific details and requirements of your LearnMate app.
+
+![App Screenshot](https://i.postimg.cc/x1s7WQ9Y/r.jpg)
+
+## ANALYTICS 
+
+The Analytics section provides a comprehensive overview of the student's progress across all tests taken. It furnishes complete data regarding their performance, including accuracy, time taken to attempt quizzes, and more.
+
+![App Screenshot](https://i.postimg.cc/prR78L2N/re.jpg)
+
+
+
+
+# 🎥. Demo Video
+
+## YOUTUBE : 
+ https://www.youtube.com/watch?v=z88FOAFGdRM
+
+
+## 🏃 How to Run
+
+**Project Setup:**
+1. The `runApp` code is exclusively present in the `/lib/main.dart` file, serving as the entry point for building the application.
+2. API keys are already incorporated into the code wherever necessary APIs are utilized, ensuring seamless functionality.
+3. To access the project, clone the repository from the following GitHub link: [LearnMate GitHub Repository](https://github.com/JAi-SATHVIK/LearnMate).
+4. Use the following command to clone the project into your desired directory:
+   ```
+   git clone https://github.com/JAi-SATHVIK/LearnMate .
+   ```
+## ⭐️ Future for LearnMate
+
+  1. Enhanced Features: Continuously improve based on user feedback.
+  2. Localization: Translate LearnMate into multiple languages.
+  3. Partnerships: Collaborate with schools, NGOs, and governments.
+  4. Accessibility: Ensure compatibility for all users, including those with disabilities.
+  5. Marketing: Launch targeted campaigns to increase visibility.
+  6. R&D: Integrate emerging technologies like AI and VR.
+  7. Community Building: Foster a supportive user community.
+## 👨‍👩‍👦. Contributors
+
+ 1. **JAYA SATHVIK TANGA** :
+    
+       GITHUB : https://github.com/JAi-SATHVIK
+
+ 2. **PRIYANSHU YADAV**
+
+       GITHUB : https://github.com/priyanshu25ops
